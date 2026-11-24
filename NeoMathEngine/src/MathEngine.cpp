@@ -42,6 +42,7 @@ limitations under the License.
 #include <DllLoader.h>
 
 #include <vector>
+#include <stdexcept>
 
 namespace NeoML {
 

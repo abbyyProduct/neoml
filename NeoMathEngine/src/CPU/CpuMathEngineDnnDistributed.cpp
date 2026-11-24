@@ -19,6 +19,7 @@ limitations under the License.
 #include <CpuMathEngine.h>
 #include <CpuMathEngineDnnDistributed.h>
 #include <MemoryHandleInternal.h>
+#include <stdexcept>
 
 namespace NeoML {
 

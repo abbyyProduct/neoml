@@ -25,6 +25,7 @@ limitations under the License.
 #include <MemoryHandleInternal.h>
 #include <CudaCommon.h>
 #include <DllLoader.h>
+#include <stdexcept>
 
 namespace NeoML {
 
